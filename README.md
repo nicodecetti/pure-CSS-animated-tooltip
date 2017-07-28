@@ -1,6 +1,6 @@
-# pure-CSS-animated-tooltip
-Animated tooltip made by CSS only
-Author: Nico Decetti (nicodecetti at gmail)
-Website: www.nodusweb.com
+# pure-CSS-animated-tooltip<br>
+Animated tooltip made by CSS only<br>
+Author: Nico Decetti (nicodecetti at gmail)<br>
+Website: www.nodusweb.com<br>
 Reference article: 
 
